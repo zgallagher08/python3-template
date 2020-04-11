@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/python3_template/__init__.py
+src/python3_template/console.py
+src/python3_template.egg-info/PKG-INFO
+src/python3_template.egg-info/SOURCES.txt
+src/python3_template.egg-info/dependency_links.txt
+src/python3_template.egg-info/entry_points.txt
+src/python3_template.egg-info/requires.txt
+src/python3_template.egg-info/top_level.txt

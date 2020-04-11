@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: python3-template
+Version: 0.1.0
+Summary: python3-template project
+Home-page: UNKNOWN
+Author: Zach Gallagher
+Author-email: zachagallagher@gmail.com
+License: UNKNOWN
+Description: # python3-template
+        Implementation of Hypermodern Python repo (https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0
