@@ -2,6 +2,7 @@ README.md
 setup.py
 src/python3_template/__init__.py
 src/python3_template/console.py
+src/python3_template/wikipedia.py
 src/python3_template.egg-info/PKG-INFO
 src/python3_template.egg-info/SOURCES.txt
 src/python3_template.egg-info/dependency_links.txt
