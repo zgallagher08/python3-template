@@ -12,10 +12,24 @@ click = "^7.1.1"
 requests = "^2.23.0"
 
 [tool.poetry.dev-dependencies]
+pytest = "^5.4.1"
+coverage = {extras = ["toml"], version = "^5.0.4"}
+pytest-cov = "^2.8.1"
+pytest-mock = "^3.0.0"
 
 [tool.poetry.scripts]
 python3-template = "python3_template.console:main"
 
+[tool.coverage.paths]
+source = ["src", "*/site-packages"]
+
+[tool.coverage.run]
+branch = true
+source = ["python3_template"]
+
+[tool.coverage.report]
+fail_under = 100
+show_missing = true
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
