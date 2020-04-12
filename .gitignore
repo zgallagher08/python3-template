@@ -1,6 +1,11 @@
 .nox*
 .coverage
-__pycache__*
+pycache
 .mypy_cache/
 .pytest_cache
 .pytype
+docs/_build
+/.python-version
+src/*.egg-info/
+src/python3_template/__pycache__/
+*.pyc
