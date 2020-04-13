@@ -2,6 +2,7 @@
 name = "python3-template"
 version = "0.1.1"
 description = "python3-template project"
+documentation = "https://python3-template-test-docs.readthedocs.io"
 license="MIT"
 authors = ["Zach Gallagher <zachagallagher@gmail.com>"]
 readme = "README.md"
