@@ -9,3 +9,4 @@ docs/_build
 src/*.egg-info/
 src/python3_template/__pycache__/
 *.pyc
+dist/
